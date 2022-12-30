@@ -10,17 +10,17 @@ Geting Started
 
 3-Create Database And Import Sql File From db-backup(users.sql) File
 
-##Remember_me
+Remember_me
 ===========
 
 you can sign up and  login and by clicking the remember me you can set your information in your browser.
 
-##Forget Password
+Forget Password
 =
 
 for recovery password you need enter your email and if your email simliar to the registered email Allowed editing to be given to you
 
-##XAMPP VERSION
+XAMPP VERSION
 ==============
 
 XAMPP control panel  v3.3.0 [compiled: Apr 6th 2021]
