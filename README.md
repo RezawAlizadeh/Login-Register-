@@ -2,7 +2,7 @@
 
 this is a Login and Register page for website.
 
-##Geting Started
+Geting Started
 ===============
 1-you must turn on your XAMPP first 
 
