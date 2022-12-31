@@ -19,7 +19,7 @@ if (isset($_POST['edit']) == "edit") {
 function GetEmail()
 {
     global $conn;
-    session_start();
+   
     $Email = $_POST['email'];
     $query = "SELECT * FROM `users` WHERE `email`=:email";
     $stmt = $conn->prepare($query);
